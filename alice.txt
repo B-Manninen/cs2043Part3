@@ -1,0 +1,21 @@
+When Alice entered the Forest of Forgetfulness, she did not forget 
+*everything*; only certain things. She often forgot her name, and 
+the one thing she was most likely to forget was the day of the week. 
+Now, the Lion and the Unicorn were frequent visitors to the forst. 
+These two are strange creatures. The Lion lies on Mondays, Tuesdays, 
+and Wednesdays and tells the truth on the other days of the week. 
+The Unicorn, on the other hand, lies on Thursdays, Fridays, and 
+Saturdays, but tells the truth on the other days of the week.
+
+One day Alice met the Lion and the Unicorn resting under a tree. 
+They made the following statements: 
+
+Lion / Yesterday was one of my lying days. 
+Unicorn / Yesterday was one of my lying days too. 
+
+From these two statements, Alice (who was a very bright girl) 
+was able to deduce the day of the week. What day was it?
+
+////////////////////////////////
+ANSWER: Thursday (chas) 
+////////////////////////////////
