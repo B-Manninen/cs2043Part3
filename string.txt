@@ -1,0 +1,11 @@
+Suppose there are the symbols M, I, and U which can be combined to produce strings of symbols. 
+Given the following transformation rules, could you transform the string "MI" to "MU"?
+
+1. Add a U to the end of any string ending in I (e.g. MI to MIU)
+2. Double the string after the M (e.g. MIU to MIUIU)
+3. Replace any III with a U	(e.g. MUIIIU to MUUU)
+4. Remove any UU (e.g. MUUU to MU)
+
+////////////////////////////////
+ANSWER: This problem seems hard.  Maybe its just too many words? 
+////////////////////////////////
